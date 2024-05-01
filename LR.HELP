@@ -1,0 +1,15 @@
+Little Robotics ILT Command Directory;
+help					Display this document
+clear					Clear history
+cls					Clear history
+reload					Relaunch LR ILT
+init					Relaunch Initializer
+volumes					Show current Volumes
+list					List files in directory
+store					Open App Store
+
+
+Important Folders and files
+
+Library - Houses all executable apps installed for LR ILT.
+LR.bat  - Start LR ILT
